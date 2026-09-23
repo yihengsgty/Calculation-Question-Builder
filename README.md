@@ -21,3 +21,7 @@
 
 >问：看了代码感觉前面的验证挺正式的。
 >答：确实正式，但只是表面上正式。实际上这个程序压根不危险。验证只是给用户的定心丸而已。
+
+
+（使用MT管理器演示的输出结果）
+<img width="1080" height="2424" alt="9529" src="https://github.com/user-attachments/assets/57a6d02e-f313-40f4-9e56-7a11fd8730ef" />
