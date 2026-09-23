@@ -1,33 +1,8 @@
 # Calculation-Question-Builder
 一个用来创建小学计算题的工具，支持把题目与答案打印到文件
+
 事件起始原因：我15岁，我弟弟比我小七岁，有一天他因为平板没有带回家，所以在家里发脾气，我妈妈让我拿一些计算题给他做，最开始默认生成100题0～100以内的，然后最近突发奇想，把代码做了亿点点优化。我最开始的代码：
-#include <cstdlib>
-#include <ctime>
-#include <iostream>
-using namespace std;
-int main (){
-	srand((int)time(0));
-	int a,b;
-	bool c;
-	int i=0;
-	while (i<=100){
-		a=rand()%100;
-		b=rand()%100;
-		c=rand()%2;
-		if((a+b<=100)&&(a-b>=0)){
-			cout<<a;
-			if(c==1)cout<<"+";
-			if(c==0)cout<<"-";
-			cout<<b;
-			cout<<"=";
-			cout<<endl;
-			i++;
-		}
-		
-		
-	}
-	return 0;
-}
+<img width="1080" height="1183" alt="9517" src="https://github.com/user-attachments/assets/57f5d37a-d5fe-4c60-a754-ca9469235e0c" />
 
 后来事情解决了，我把这个代码搁置了。
 
