@@ -17,11 +17,8 @@
 >答：基本不存在。程序只是往你的/storage/emulated/0/Documents下创建了一个文件，这个文件本身人畜无害，只会存放题目与答案。
 
 >问：涉及到自动生成，占手机空间吗？
->答：想什么呢，又不是AI大模型生成。整个程序大概也就……2MB左右吧。<img width="1080" height="2424" alt="9568" src="https://github.com/user-attachments/assets/ddd0c0a0-d271-4f12-820c-62b1d83dc4f2" />运行一次满打满算也就3MB左右。
-<img width="1080" height="2424" alt="9567" src="https://github.com/user-attachments/assets/f65c275c-e248-4a8c-a8da-fd577460bb14" />
-
-
-
+>答：想什么呢，又不是AI大模型生成。整个程序大概也就……2MB左右吧。运行一次满打满算也就3MB左右。
+<img width="3840" height="2880" alt="9571" src="https://github.com/user-attachments/assets/b3a889a6-7892-428f-8e38-64f255d0a638" />
 
 >问：看了代码感觉前面的验证挺正式的。
 >答：确实正式，但只是表面上正式。实际上这个程序压根不危险。验证只是给用户的定心丸而已。
